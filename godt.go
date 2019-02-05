@@ -15,7 +15,7 @@ const (
 	envHubAPIVersion  = "GODT_HUB_API_VERSION"
 	envHubURL         = "GODT_HUB_URL"
 	defaultAPIVersion = "1"
-	defaultHubURL     = "https://registry.hub.docker.com"
+	defaultHubURL     = "https://index.docker.io"
 )
 
 // Client for querying docker hub API
